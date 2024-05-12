@@ -1,0 +1,27 @@
+.menu ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px;
+}
+.Header {
+  background-color: #06beb6;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  color: black;
+}
+.menu a {
+  color: antiquewhite;
+}
+.left-info {
+  height: 100vh;
+  position: sticky;
+  top: 0;
+  background-color: rgba(47, 207, 42, 0.356);
+  padding-left: 10px;
+  margin-left: 10px;
+}
+.left-info h2 {
+  color: #807562;
+  border-bottom: 1px salmon solid;
+}

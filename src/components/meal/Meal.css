@@ -1,0 +1,19 @@
+.meal-info img {
+  width: 100%;
+  height: 250px;
+  border-radius: 20px;
+}
+.singel-meal {
+  border: 1px solid salmon;
+  border-radius: 20px;
+}
+
+.addTo {
+  width: 100%;
+  border-radius: 20px;
+  border: 1px salmon solid;
+}
+.meal-info h3,
+p {
+  padding-left: 10px;
+}
